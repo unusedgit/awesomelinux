@@ -1,0 +1,12 @@
+#+TITLE: Awesome Linux
+A Compilation Of Software I've Found On My Linux Journey!
+
+* Terminal
+
+** Terminal Emulators
+
+*** [[https://github.com/wez/wezterm][WezTerm]] - A Terminal And Multiplexer Written In Rust And Configured In Lua, GPU-Accelerated
+*** [[https://github.com/alacritty/alacritty][Alacritty]] - A Terminal Written In Rust And Configured In TOML, GPU-Accelerated
+*** [[https://github.com/kovidgoyal/kitty][Kitty]] - A Featureful Terminal Configured in Plain Text, GPU-Accelerated
+*** [[https://github.com/exg/rxvt-unicode][URXVT(GitHub Mirror)]] - A Fork Of RXVT Which Can Display Unicode Characters
+***

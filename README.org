@@ -1,8 +1,0 @@
-#+TITLE: Awesome Linux
-A Compilation of Software I've Found On My UNIX-like Journey!
-
-* Terminal
-
-** Terminal Emulators
-
-  * [[https://github.com/wez/wezterm][WezTerm]]
